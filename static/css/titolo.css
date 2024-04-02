@@ -1,9 +1,12 @@
 
 .titolo{
     font-family: 'Roboto', sans-serif;
+    width: 710px;
+    height: 224px;
 }
 .titolo h2{
     font-weight: bold;
     font-size: 48px;
     line-height: 1;
+    text-align: left;
 }
