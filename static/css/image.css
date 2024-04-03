@@ -1,4 +1,7 @@
  .image{
-    width: 1068px;
-    height: 710px;
+    margin-bottom: 80px;
+ }
+
+ .image img{
+   width: 100%;
  }
