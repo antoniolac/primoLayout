@@ -1,8 +1,9 @@
 
 .titolo{
     font-family: 'Roboto', sans-serif;
-    width: 710px;
-    height: 224px;
+    width: 100%;
+   /*width: 710px;
+    height: 224px;*/
     margin-top: 60px;
     margin-bottom: 30px;
 }
